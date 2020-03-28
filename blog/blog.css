@@ -17,13 +17,17 @@ div{
     padding-bottom: 10px;
 }
 h3{
-    color: rgb(0,94,204,0.4)
+    color: rgb(0,94,204,0.4);
+    text-transform: uppercase;
+    text-indent: 5px;
+    letter-spacing: 2px;
+    
 }
 h1{
     font: small-caps 3.5em Oswald, sans-serif;
 }
 p{
-    font: 1em 'Montserrat', sans-serif;
+    font: 1em 'Open Sans', sans-serif;
 }
 /* font-family: 'Montserrat', sans-serif;
 font-family: 'Open Sans', sans-serif;
