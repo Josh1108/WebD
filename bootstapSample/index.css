@@ -1,0 +1,27 @@
+body{
+    background-color: #f5d9d5;
+    font-family: Raleway, sans-serif;
+}
+#navbruh .navbar-brand{
+    color: #EA1C2C;
+}
+#navbruh .nav-link{
+    color: white;
+}
+#navbruh .nav-link:hover{
+    color:#EA1C2C;
+}
+#navbruh{
+
+    font-size:1.5rem;
+    font-weight: 100;
+}
+h1{
+    font-weight: 100;
+}
+@media(max-width:1200px)
+{
+    h1{
+        font-size: 2rem;
+    }
+}
